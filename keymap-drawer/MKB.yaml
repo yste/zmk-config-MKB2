@@ -13,7 +13,7 @@ layers:
   - O
   - P
   - BKSP
-  - {t: ESC, h: BT}
+  - {t: LCTRL, h: BT}
   - A
   - S
   - D
